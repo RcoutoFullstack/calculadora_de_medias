@@ -97,3 +97,9 @@ table td img {
 .reprovado {
     background-color: red;
 }
+
+footer {    
+    background-color: #E7E7E7;
+    color: #000000;
+    padding: 205px 0;
+}
